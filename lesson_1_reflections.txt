@@ -1,0 +1,5 @@
+pwd 			# print working directory
+ls  			# list the files in this directory
+git log --stat	# print the commit history and file changes and commit numbers
+				# use q to quit scrolling throught the return
+git diff 		# prints the commit changes between the numbers provided by git log
